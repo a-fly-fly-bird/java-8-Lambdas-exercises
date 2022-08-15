@@ -3,7 +3,7 @@ package chapter3;
 import java.util.List;
 import java.util.stream.*;
 
-public class Ex1a{
+public class Ex1{
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
