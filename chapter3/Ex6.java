@@ -1,3 +1,4 @@
+package chapter3;
 public class Ex6 {
     public static void main(String[] args) {
         System.out.println(countLowerCase("Hello World"));
@@ -19,4 +20,6 @@ public class Ex6 {
                            .filter(Character::isLowerCase)
                            .count();
     }
+
+    
 }
